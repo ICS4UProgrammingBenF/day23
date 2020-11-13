@@ -25,6 +25,7 @@ public class Main {
   public static void try2() {
     Bike bike = new Bike("BLUE", "12", "8");
     Truck truck = new Truck("22", "54");
+    System.out.println("Outputted to file");
   }
   
   public static void try1() {
